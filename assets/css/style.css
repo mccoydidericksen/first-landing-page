@@ -1,6 +1,9 @@
 * {
   font-family:'Courier New', Courier, monospace;
   text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
 }
 
 header {
@@ -13,4 +16,23 @@ header {
 
 section {
   background-color:blanchedalmond;
+  padding: 8%;
+}
+
+footer{
+  background-color: rgb(124, 138, 98);
+  padding: 1%;
+}
+
+h2 {
+  padding-bottom: 20px;
+}
+
+.contact-form {
+  padding: 10px;
+  border: 10px solid rgb(133, 133, 252);
+}
+
+.left-align {
+  text-align:start;
 }
